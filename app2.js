@@ -3,3 +3,4 @@ const saludar = (nombre) => {
 }
 
 console.log(saludar("Leo"));
+
